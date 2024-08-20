@@ -34,4 +34,4 @@ Un Pull Request (PR) es una función en sistemas de control de versiones distrib
 ![alt text](PullRequest.png)
 
 ### Ejercicios online
-![alt text](algunos-ejercicios.png)
+![alt text](Algunos-ejercicios.png)
