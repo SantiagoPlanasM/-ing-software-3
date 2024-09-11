@@ -7,4 +7,4 @@
 
 - [X] [Trabajo Práctico 3 - AzureDevops](3-azureDevops/README.md)
 
-- [ ] Trabajo Práctico 4 - 
+- [X] [Trabajo Práctico 4 - Pipeline](4-pipeline/README.md)

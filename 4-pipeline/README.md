@@ -61,7 +61,20 @@
 ### Pipe local con host
 ![alt text](11A.png)
 
+### 12- Angular
+![alt text](12.png)
 
+### Pipeline de angular conCI
+![alt text](13.png)
+![alt text](13A.png)
 
-### 12 adelante
-![alt text]()
+### cambio en archivo
+![alt text](15.png)
+
+### Descargar pipeline
+![alt text](16.png)
+![alt text](17A.png)
+
+### Cambio
+![alt text](17C.png)
+![alt text](17B.png)
