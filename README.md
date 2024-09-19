@@ -11,6 +11,6 @@
 
 - [X] [Trabajo Práctico 5 - Release Pipeline](5-RelPipe/README.md)
 
-- [] [Trabajo Práctico 6]()
+- [ ] [Trabajo Práctico 6]()
 
-- [] [Trabajo Práctico 7]()
+- [ ] [Trabajo Práctico 7]()
