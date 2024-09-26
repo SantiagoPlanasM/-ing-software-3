@@ -226,3 +226,10 @@ A\. Crear una BD Azure SQL Database (Ver Instructivo 5.1)
 ![alt text](image-14.png)
 ![alt text](image-13.png)
 
+#### 4.6 Modificamos el código de nuestra API y creamos nuevas pruebas unitarias:
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+
+#### 4.7 Modificamos el código de nuestro Front y creamos nuevas pruebas unitarias:
+

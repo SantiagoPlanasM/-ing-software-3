@@ -11,6 +11,6 @@
 
 - [X] [Trabajo Práctico 5 - Release Pipeline](5-RelPipe/README.md)
 
-- [ ] [Trabajo Práctico 6- Unit Tests](6-PruebasU/README.md)
+- [X] [Trabajo Práctico 6- Unit Tests](6-PruebasU/README.md)
 
 - [ ] [Trabajo Práctico 7]()
