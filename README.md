@@ -13,4 +13,8 @@
 
 - [X] [Trabajo Práctico 6- Unit Tests](6-PruebasU/README.md)
 
-- [ ] [Trabajo Práctico 7]()
+- [X] [Trabajo Práctico 7 - Code Coverage, Análisis estático de Código y Pruebas de Integración](7-CodeCovInt/README.md)
+
+- [ ] [Trabajo Práctico 8]()
+
+- [ ] [Trabajo Práctico 9]()
