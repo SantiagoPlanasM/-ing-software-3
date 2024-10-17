@@ -87,13 +87,33 @@
 			![alt text](image-18.png)
 			![alt text](image-19.png)
 			![alt text](image-20.png)
-			![alt text](image-21.png)
+			![alt text](image-22.png)
 
 
   	  - ##### 4.1.12 - Agregar tareas para correr pruebas de integración en el entorno de QA de Back y Front creado en ACI.
   	     
 #### 4.2 Desafíos:
 - [X] 4.2.1 Agregar tareas para generar imagen Docker de Front. (Punto 4.1.8)
-- [ ] 4.2.2 Agregar tareas para generar en Azure Container Instances un contenedor de imagen Docker de Front. (Punto 4.1.11)
+- [x] 4.2.2 Agregar tareas para generar en Azure Container Instances un contenedor de imagen Docker de Front. (Punto 4.1.11)
 - [ ] 4.2.3 Agregar tareas para correr pruebas de integración en el entorno de QA de Back y Front creado en ACI. (Punto 4.1.12)
-- [ ] 4.2.4 Agregar etapa que dependa de la etapa de Deploy en ACI QA y genere contenedores en ACI para entorno de PROD.
+- [x] 4.2.4 Agregar etapa que dependa de la etapa de Deploy en ACI QA y genere contenedores en ACI para entorno de PROD.
+
+	- ##### 4.2.4 Agregar etapa que dependa de la etapa de Deploy en ACI QA y genere contenedores en ACI para entorno de PROD.
+		- Api del back-prod
+
+		    ![alt text](image-23.png)
+
+		- Pipeline con Approval de Enviroment PROD
+
+			![alt text](image-30.png)
+			![alt text](image-24.png)
+			![alt text](image-25.png)
+			![alt text](image-27.png)
+
+		- ACI de Back y Front
+
+			![alt text](image-26.png)
+			![alt text](image-28.png)
+			![alt text](image-29.png)
+
+

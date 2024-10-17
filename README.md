@@ -15,6 +15,6 @@
 
 - [X] [Trabajo Práctico 7 - Code Coverage, Análisis estático de Código y Pruebas de Integración](7-CodeCovInt/README.md)
 
-- [ ] [Trabajo Práctico 8 - Implementación de Contenedores en Azure y Automatización con Azure CLI](8-AZCI1/README.md)
+- [X] [Trabajo Práctico 8 - Implementación de Contenedores en Azure y Automatización con Azure CLI](8-AZCI1/README.md)
 
 - [ ] [Trabajo Práctico 9 - Implementación de Contenedores en Azure Parte 2](9-AZCI2/README.md)
